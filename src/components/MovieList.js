@@ -1,9 +1,5 @@
+import Movie from './Movie';
 
-const Movie = () => {
-    return (
-        ''
-// I think once you add a return statement here it should make the test pass
-)}
 const MovieList = () => {
     return(
     <div> 

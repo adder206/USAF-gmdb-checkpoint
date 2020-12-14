@@ -1,6 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 import MovieList from './components/MovieList'
+import Movie from './components/Movie';
 import { shallow } from 'enzyme';
 
 describe("Home page", () => {
